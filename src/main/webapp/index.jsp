@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><U>Welcome to Orchestrating with Jenkins training</U></h2>
+<h2><U><i>Welcome to Orchestrating with Jenkins training<i></U></h2>
 </body>
 </html>
